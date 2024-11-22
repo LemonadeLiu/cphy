@@ -7,7 +7,7 @@
  -->
 <!-- https://user-images.githubusercontent.com/8154246/184846814-5b5c80e1-34f9-4063-9b26-36b2a0369827.mov -->
 <!-- <img src="https://user-images.githubusercontent.com/8154246/184846814-5b5c80e1-34f9-4063-9b26-36b2a0369827.mov" alt="Overview of Methods in Course" width="100%"/> -->
-this is a pull request test for the lab.
+Pull request: this is a pull request test for the lab.
 
 # Computational Physics
 
